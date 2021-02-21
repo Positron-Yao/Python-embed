@@ -5,7 +5,7 @@
 - 复制 *get-pip.py* 和 *get-pip.bat* 到 *\\python* 下，运行 *get-pip.bat* ；
 - 打开 *python\*\*._pth_* ，删掉 "#import site" 中的 "#"，保存；
 
-![_pth](F:\Python\python-embed开发\开发笔记\_pth.png)
+![_pth](_pth.png)
 
 - 进入 *\\python\\Scripts* ，打开命令行，使用 *pip* 安装 Module；
 
